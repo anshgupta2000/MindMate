@@ -17,7 +17,7 @@ MindMate is built on top of the powerful LLaMA-2 model, fine-tuned with a divers
 
 ## Contribution:
 
-We welcome contributions from the community! If you're interested in improving MindMate, whether it's adding new features, enhancing the conversation model, or providing more resources, please check contact me at anshg4646@gmail.com.
+We welcome contributions from the community! If you're interested in improving MindMate, whether it's adding new features, enhancing the conversation model, or providing more resources, please contact me at anshg4646@gmail.com.
 
 
 ## Disclaimer:
