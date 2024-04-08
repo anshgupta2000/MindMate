@@ -13,7 +13,7 @@ Personalized Support: Adapts responses based on user interactions, ensuring pers
 
 ## Technical Architecture:
 
-MindMate is built on top of the powerful LLaMA-2 model, fine-tuned with a diverse dataset encompassing therapeutic conversations, self-help guidance, and positive affirmations. The project leverages cutting-edge AI technologies to ensure conversations are meaningful, helpful, and uplifting.
+Integrated LLama2, LangChain with HuggingFace's open-source tech, FAISS vector stores for context retrieval, and Streamlit UI for user engagement. Applied embeddings, memory models for maintaining chat history, ensuring continuity and personalization in therapeutic conversations. Enhanced empathetic response accuracy with a dynamic retrieval chain.
 
 ## Contribution:
 
